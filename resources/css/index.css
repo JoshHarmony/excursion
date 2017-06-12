@@ -24,7 +24,12 @@ a {
 h2 {
   font-weight: 300;
   font-size: 42px;
+  color: White;
 }
 p {
   font-size: 21px;
+  font-family: Verdana;
+}
+a {
+  font-family: Verdana;
 }
